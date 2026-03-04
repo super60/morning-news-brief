@@ -1,0 +1,15 @@
+# Morning News Brief Dependencies
+# 晨间新闻简报生成器依赖
+
+# HTTP Requests
+requests>=2.28.0
+
+# Tavily API (新闻搜索)
+# tavily-python>=0.3.0
+
+# OpenClaw Integration (可选)
+# openclaw>=2026.3.0
+
+# Development
+# black>=23.0.0
+# pytest>=7.0.0

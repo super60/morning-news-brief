@@ -1,0 +1,19 @@
+{
+  "stocks": {
+    "小米集团": "1810.HK",
+    "阿里巴巴": "BABA",
+    "美光科技": "MU",
+    "美团": "3690.HK",
+    "中芯国际": "0981.HK",
+    "哔哩哔哩": "BILI"
+  },
+  "gold_api": "https://api.gold-api.com/price/XAU",
+  "news_sources": ["BBC", "CNBC", "Al Jazeera"],
+  "output_format": "markdown",
+  "tavily_api_key": "YOUR_API_KEY_HERE",
+  "openclaw_integration": {
+    "enabled": true,
+    "cron_schedule": "30 6 * * *",
+    "channel": "dingtalk"
+  }
+}
